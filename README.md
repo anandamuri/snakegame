@@ -20,3 +20,5 @@
 
 Here is a live demo:  
 [https://cvsnakegame.vercel.app/](https://cvsnakegame.vercel.app/)
+
+<img width="1511" alt="main" src="https://github.com/user-attachments/assets/24cec2b8-a724-49d7-838f-1a5eb8285fd8" />
