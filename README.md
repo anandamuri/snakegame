@@ -1,7 +1,7 @@
 # CV Snake Game
 
 **Tools:**  
-- React & Typescript & HTML & CSS
+- React & Typescript & HTML
   - managed game logic, gesture events, canvas rendering, and component state  
   - easier to manage game state and UI with reusable components
   - typeScript helped catch bugs early and improves code reliability
