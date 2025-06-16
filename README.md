@@ -4,7 +4,7 @@
 - React & Typescript & HTML
   - managed game logic, gesture events, canvas rendering, and component state  
   - easier to manage game state and UI with reusable components
-  - TypeScript helped catch bugs early and improves code reliability
+  - TypeScript caught bugs early and improved code reliability
   - cleaner, more scalable code than plain HTML/JS
 - CSS3  
   - styled the visuals, positioning, and responsive layout
