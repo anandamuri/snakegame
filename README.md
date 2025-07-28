@@ -16,7 +16,7 @@
 - Vercel  
   - deployed the frontend  
 - Git / GitHub  
-  - version control and CI/CD pipeline  
+  - version control
 
 Here is a live demo:  
 [https://cvsnakegame.vercel.app/](https://cvsnakegame.vercel.app/)
